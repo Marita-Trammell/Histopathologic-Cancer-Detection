@@ -1,6 +1,5 @@
 # Histopathologic-Cancer-Detection
 Identify metastatic tissue in histopathologic scans of lymph node sections
-# Histopathologic Cancer Detection
 
 **Problem Description**  
 We are participating in the Kaggle “Histopathologic Cancer Detection” competition, a binary classification task.  
