@@ -123,11 +123,6 @@ Below is a summary of what we ultimately included in our Kaggle notebook and rep
    - Run each cell in sequence; the notebook will automatically detect `/kaggle/input/histopathologic-cancer-detection/train/`, `/test/`, and `train_labels.csv`.  
    - At the end, you will have `submission.csv` ready to upload to the Kaggle competition.  
 
----
-
-## License
-
-This repository is released under the MIT License. Feel free to reuse and modify for educational or research purposes.
 
 ---
 
